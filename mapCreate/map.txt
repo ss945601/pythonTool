@@ -1,0 +1,1247 @@
+{
+  "response": {
+    "garage_data": {
+      "garage_id": "0M0001",
+      "garage_name": "Mira Place",
+      "space_total": "0",
+      "parking_free_time": "0",
+      "business_begin_time": "00:00:00",
+      "business_end_time": "23:59:59",
+      "currency": "4",
+      "flow_gatecontrol": "1",
+      "mapURL": "http://192.168.1.2/Local/map/",
+      "garage_domain": "0M0001.ddns.net",
+      "flow_carparkt_type": "0",
+      "isAPPWiFiOn": "0",
+      "isLocalOnAWS": "0",
+      "two_way_driving": "1",
+      "isIPCam": "no",
+      "lot_status": "open"
+    },
+    "garage_gate_data": [
+      {
+        "garage_id": "0M0001",
+        "gate_id": "00:23:A7:A6:A8:C4",
+        "gate_ip": "192.168.2.125",
+        "gate_x": "1",
+        "gate_y": "2"
+      },
+      {
+        "garage_id": "0M0001",
+        "gate_id": "00:23:A7:A6:B2:AC",
+        "gate_ip": "192.168.2.126",
+        "gate_x": "1",
+        "gate_y": "2"
+      }
+    ],
+    "changeReserveSpace": "no",
+    "floor_sensor_data": [
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:A8",
+        "sensor_ip": "192.168.2.48",
+        "seq_id": "1",
+        "x": "826",
+        "y": "1845",
+        "Next_N": [
+          "2"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_2_L_826_1845_1066_1845_L_1066_1855_1066_1794"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:50",
+        "sensor_ip": "192.168.2.49",
+        "seq_id": "2",
+        "x": "1066",
+        "y": "1794",
+        "Next_N": [
+          "3"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_3_R",
+          "C_1_3_L_1066_1794_1066_1627_L_1060_1640_1160_1560"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:60",
+        "sensor_ip": "192.168.2.50",
+        "seq_id": "3",
+        "x": "1160",
+        "y": "1560",
+        "Next_N": [
+          "4",
+          "24"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2",
+          "1_5_L",
+          "1_24_R",
+          "C_1_24_L_1160_1560_1399_1343_L_1399_1338_1399_1582"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:E8",
+        "sensor_ip": "192.168.2.51",
+        "seq_id": "4",
+        "x": "1399",
+        "y": "1338",
+        "Next_N": [
+          "5",
+          "24"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2_23_L"
+        ],
+        "X_RANGE": "250",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:90",
+        "sensor_ip": "192.168.2.52",
+        "seq_id": "5",
+        "x": "1399",
+        "y": "1116",
+        "Next_N": [
+          "4",
+          "23"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:70",
+        "sensor_ip": "192.168.2.53",
+        "seq_id": "6",
+        "x": "1346",
+        "y": "893",
+        "Next_N": [
+          "5",
+          "23"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2",
+          "C_1_23_L_1346_893_1310_1066_L_1315_1063_1204_972",
+          "C_1_5_L_1346_893_1320_1016_L_1320_1010_1399_1116"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:5C",
+        "sensor_ip": "192.168.2.54",
+        "seq_id": "7",
+        "x": "1378",
+        "y": "665",
+        "Next_N": [
+          "6"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2_5_L",
+          "2_23_R"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:B0",
+        "sensor_ip": "192.168.2.55",
+        "seq_id": "8",
+        "x": "1411",
+        "y": "432",
+        "Next_N": [
+          "7"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:BC",
+        "sensor_ip": "192.168.2.56",
+        "seq_id": "9",
+        "x": "1194",
+        "y": "402",
+        "Next_N": [
+          "8"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0_0_+_1099_438"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:E8",
+        "sensor_ip": "192.168.2.57",
+        "seq_id": "10",
+        "x": "943",
+        "y": "367",
+        "Next_N": [
+          "9"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0_0_+_1099_438"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:94",
+        "sensor_ip": "192.168.2.58",
+        "seq_id": "11",
+        "x": "716",
+        "y": "335",
+        "Next_N": [
+          "10"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_10_+"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:28",
+        "sensor_ip": "192.168.2.59",
+        "seq_id": "12",
+        "x": "527",
+        "y": "308",
+        "Next_N": [
+          "11"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:78",
+        "sensor_ip": "192.168.2.60",
+        "seq_id": "13",
+        "x": "476",
+        "y": "529",
+        "Next_N": [
+          "12"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "240",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:E0",
+        "sensor_ip": "192.168.2.61",
+        "seq_id": "14",
+        "x": "567",
+        "y": "734",
+        "Next_N": [
+          "13"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_13_L_567_734_476_639_L_476_645_476_529"
+        ],
+        "X_RANGE": "210",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:B8",
+        "sensor_ip": "192.168.2.62",
+        "seq_id": "15",
+        "x": "580",
+        "y": "1041",
+        "Next_N": [
+          "16",
+          "17"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2",
+          "1_16_R",
+          "1_17_L",
+          "C_1_16_L_580_1041_365_1040_L_370_1041_328_993",
+          "C_1_17_L_580_1041_468_1141_L_468_1135_468_1284"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:C4",
+        "sensor_ip": "192.168.2.63",
+        "seq_id": "16",
+        "x": "328",
+        "y": "993",
+        "Next_N": [
+          "17"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_17_L_328_993_370_1041_L_364_1041_468_1041_L_468_1030_468_1284"
+        ],
+        "X_RANGE": "210",
+        "Y_RANGE": "260",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:EC",
+        "sensor_ip": "192.168.2.64",
+        "seq_id": "17",
+        "x": "468",
+        "y": "1284",
+        "Next_N": [
+          "18"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:54",
+        "sensor_ip": "192.168.2.65",
+        "seq_id": "18",
+        "x": "468",
+        "y": "1516",
+        "Next_N": [
+          "19"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_19_L_468_1516_468_1637_L_468_1627_646_1627"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:90",
+        "sensor_ip": "192.168.2.66",
+        "seq_id": "19",
+        "x": "646",
+        "y": "1627",
+        "Next_N": [
+          "20"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2_3_L"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:10",
+        "sensor_ip": "192.168.2.67",
+        "seq_id": "20",
+        "x": "895",
+        "y": "1627",
+        "Next_N": [
+          "3"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_3_L",
+          "C_1_3_L_895_1627_1066_1627_L_1060_1627_1160_1560"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:80",
+        "sensor_ip": "192.168.2.68",
+        "seq_id": "21",
+        "x": "751",
+        "y": "918",
+        "Next_N": [
+          "14",
+          "15"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:64",
+        "sensor_ip": "192.168.2.69",
+        "seq_id": "22",
+        "x": "978",
+        "y": "918",
+        "Next_N": [
+          "21"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2_14_R",
+          "2_15_L"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:14",
+        "sensor_ip": "192.168.2.70",
+        "seq_id": "23",
+        "x": "1204",
+        "y": "972",
+        "Next_N": [
+          "22"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_22_L_1204_972_1145_918_L_1150_918_978_918"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:B4",
+        "sensor_ip": "192.168.2.71",
+        "seq_id": "24",
+        "x": "1399",
+        "y": "1582",
+        "Next_N": [
+          "25"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:A0",
+        "sensor_ip": "192.168.2.72",
+        "seq_id": "25",
+        "x": "1399",
+        "y": "1779",
+        "Next_N": [
+          "26"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:6C",
+        "sensor_ip": "192.168.2.73",
+        "seq_id": "26",
+        "x": "1399",
+        "y": "1995",
+        "Next_N": [
+          "27"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:30",
+        "sensor_ip": "192.168.2.74",
+        "seq_id": "27",
+        "x": "1399",
+        "y": "2179",
+        "Next_N": [
+          "28"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:18",
+        "sensor_ip": "192.168.2.75",
+        "seq_id": "28",
+        "x": "1135",
+        "y": "2179",
+        "Next_N": [
+          "29"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B2",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:00",
+        "sensor_ip": "192.168.2.76",
+        "seq_id": "29",
+        "x": "872",
+        "y": "2179",
+        "Next_N": [
+          "1"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_1_R",
+          "0_0_-_762_2069",
+          "C_1_1_L_870_2179_690_1998_A_690_1998_570_1900_690_1845_L_685_1845_826_1845 "
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:7C",
+        "sensor_ip": "192.168.2.77",
+        "seq_id": "1",
+        "x": "472",
+        "y": "1369",
+        "Next_N": [
+          "2"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0_0_+_323_1415"
+        ],
+        "X_RANGE": "220",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:50",
+        "sensor_ip": "192.168.2.78",
+        "seq_id": "2",
+        "x": "472",
+        "y": "1210",
+        "Next_N": [
+          "3"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "220",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:38",
+        "sensor_ip": "192.168.2.79",
+        "seq_id": "3",
+        "x": "472",
+        "y": "1025",
+        "Next_N": [
+          "4"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:A4",
+        "sensor_ip": "192.168.2.80",
+        "seq_id": "4",
+        "x": "472",
+        "y": "840",
+        "Next_N": [
+          "5"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "240",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:30",
+        "sensor_ip": "192.168.2.81",
+        "seq_id": "5",
+        "x": "472",
+        "y": "671",
+        "Next_N": [
+          "6",
+          "7"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_6_L",
+          "1_7_R",
+          "C_1_7_L_472_671_597_545_L_593_545_772_545",
+          "C_1_6_L_472_671_597_538_L_597_545_597_438"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "200",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:98",
+        "sensor_ip": "192.168.2.82",
+        "seq_id": "6",
+        "x": "597",
+        "y": "438",
+        "Next_N": [
+          "7"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_7_L_597_438_597_545_L_587_545_772_545"
+        ],
+        "X_RANGE": "160",
+        "Y_RANGE": "235",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:84",
+        "sensor_ip": "192.168.2.83",
+        "seq_id": "7",
+        "x": "772",
+        "y": "545",
+        "Next_N": [
+          "8"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:B0",
+        "sensor_ip": "192.168.2.84",
+        "seq_id": "8",
+        "x": "1002",
+        "y": "545",
+        "Next_N": [
+          "9"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_9_L_1002_545_1185_545_L_1180_545_1251_599"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:2C",
+        "sensor_ip": "192.168.2.85",
+        "seq_id": "9",
+        "x": "1251",
+        "y": "599",
+        "Next_N": [
+          "10"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_10_L_1251_599_1402_754_L_1402_754_1402_784"
+        ],
+        "X_RANGE": "170",
+        "Y_RANGE": "255",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:B8",
+        "sensor_ip": "192.168.2.86",
+        "seq_id": "10",
+        "x": "1402",
+        "y": "784",
+        "Next_N": [
+          "11"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "190",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:88",
+        "sensor_ip": "192.168.2.87",
+        "seq_id": "11",
+        "x": "1402",
+        "y": "969",
+        "Next_N": [
+          "12"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "270",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:FC",
+        "sensor_ip": "192.168.2.88",
+        "seq_id": "12",
+        "x": "1402",
+        "y": "1154",
+        "Next_N": [
+          "13"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_13_L_1402_1154_1402_1270_L_1402_1265_1340_1345"
+        ],
+        "X_RANGE": "360",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:9E:F8",
+        "sensor_ip": "192.168.2.89",
+        "seq_id": "13",
+        "x": "1340",
+        "y": "1345",
+        "Next_N": [
+          "14"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_14_L_1340_1345_1260_1414_L_1266_1414_1066_1414"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:E4",
+        "sensor_ip": "192.168.2.90",
+        "seq_id": "14",
+        "x": "1066",
+        "y": "1414",
+        "Next_N": [
+          "15"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:38",
+        "sensor_ip": "192.168.2.91",
+        "seq_id": "15",
+        "x": "881",
+        "y": "1414",
+        "Next_N": [
+          "16"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "B3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:84",
+        "sensor_ip": "192.168.2.92",
+        "seq_id": "16",
+        "x": "696",
+        "y": "1414",
+        "Next_N": [
+          "1"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_1_+",
+          "C_1_1_L_696_1414_515_1414_L_520_1414_472_1369"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:E8",
+        "sensor_ip": "192.168.2.40",
+        "seq_id": "1",
+        "x": "457",
+        "y": "954",
+        "Next_N": [
+          "2",
+          "6"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_2_L",
+          "1_6_-",
+          "C_1_2_L_457_954_510_1040_L_510_1040_510_1103_L_510_1098_554_1146"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A4:94",
+        "sensor_ip": "192.168.2.41",
+        "seq_id": "2",
+        "x": "554",
+        "y": "1146",
+        "Next_N": [
+          "3"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "C_1_3_L_554_1146_645_1246_L_645_1246_645_1466"
+        ],
+        "X_RANGE": "190",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:24",
+        "sensor_ip": "192.168.2.42",
+        "seq_id": "3",
+        "x": "645",
+        "y": "1466",
+        "Next_N": [
+          "4"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "200",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:AC",
+        "sensor_ip": "192.168.2.43",
+        "seq_id": "4",
+        "x": "252",
+        "y": "1466",
+        "Next_N": [
+          "5"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "193",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:54",
+        "sensor_ip": "192.168.2.44",
+        "seq_id": "5",
+        "x": "297",
+        "y": "1146",
+        "Next_N": [
+          "1"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "2_2_R",
+          "2_6_L"
+        ],
+        "X_RANGE": "155",
+        "Y_RANGE": "255",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A3:6C",
+        "sensor_ip": "192.168.2.45",
+        "seq_id": "6",
+        "x": "457",
+        "y": "730",
+        "Next_N": [
+          "1",
+          "7"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "1_1_R",
+          "0_0_-_362_731"
+        ],
+        "X_RANGE": "140",
+        "Y_RANGE": "185",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A1:98",
+        "sensor_ip": "192.168.2.46",
+        "seq_id": "7",
+        "x": "617",
+        "y": "570",
+        "Next_N": [
+          "6",
+          "8"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "200",
+        "Y_RANGE": "215",
+        "isDeadEndEntry": ""
+      },
+      {
+        "floor": "L3",
+        "area": "01",
+        "sensor_id": "00:23:A7:E3:A2:70",
+        "sensor_ip": "192.168.2.47",
+        "seq_id": "8",
+        "x": "777",
+        "y": "409",
+        "Next_N": [
+          "7"
+        ],
+        "Pre_N": [
+          ""
+        ],
+        "T": [
+          "0"
+        ],
+        "X_RANGE": "190",
+        "Y_RANGE": "215",
+        "isDeadEndEntry": ""
+      }
+    ],
+    "image_data": [
+      {
+        "floor": "B2",
+        "FloorSeq": "-1",
+        "AreaQty": "1",
+        "FloorPic": "B2",
+        "X_Shift": "0",
+        "Y_Shift": "0",
+        "area_data": [
+          {
+            "AreaId": "01",
+            "AreaPic": "B2_01",
+            "ABayQty": "0",
+            "AreaPicCoordinateX": "0",
+            "AreaPicCoordinateY": "0",
+            "MacroW": "1741",
+            "MacroH": "2419"
+          }
+        ]
+      },
+      {
+        "floor": "B3",
+        "FloorSeq": "-2",
+        "AreaQty": "1",
+        "FloorPic": "B3",
+        "X_Shift": "0",
+        "Y_Shift": "0",
+        "area_data": [
+          {
+            "AreaId": "01",
+            "AreaPic": "B3_01",
+            "ABayQty": "0",
+            "AreaPicCoordinateX": "0",
+            "AreaPicCoordinateY": "0",
+            "MacroW": "1741",
+            "MacroH": "2050"
+          }
+        ]
+      },
+      {
+        "floor": "L3",
+        "FloorSeq": "1",
+        "AreaQty": "1",
+        "FloorPic": "L3",
+        "X_Shift": "0",
+        "Y_Shift": "0",
+        "area_data": [
+          {
+            "AreaId": "01",
+            "AreaPic": "L3_01",
+            "ABayQty": "0",
+            "AreaPicCoordinateX": "0",
+            "AreaPicCoordinateY": "0",
+            "MacroW": "1350",
+            "MacroH": "1794"
+          }
+        ]
+      }
+    ],
+    "dataVer": "1"
+  }
+}

@@ -1,0 +1,64 @@
+"floor_sensor_data": [
+  {
+  "floor": "B2",
+  "area": "01",
+  "sensor_id": "00:23:A7:A6:00:1",
+  "sensor_ip": "192.168.2.1",
+  "seq_id": "1",
+  "x": "526.0",
+  "y": "266.0",
+  "Next_N": [
+    "Next_N1"
+  ],
+  "Pre_N": [
+    ""
+  ],
+  "T": [
+    "T1"
+  ],
+  "X_RANGE": "140",
+  "Y_RANGE": "185",
+  "isDeadEndEntry": ""
+},"floor_sensor_data": [
+  {
+  "floor": "B2",
+  "area": "01",
+  "sensor_id": "00:23:A7:A6:00:2",
+  "sensor_ip": "192.168.2.2",
+  "seq_id": "2",
+  "x": "759.0",
+  "y": "259.0",
+  "Next_N": [
+    "Next_N2"
+  ],
+  "Pre_N": [
+    ""
+  ],
+  "T": [
+    "T2"
+  ],
+  "X_RANGE": "140",
+  "Y_RANGE": "185",
+  "isDeadEndEntry": ""
+},"floor_sensor_data": [
+  {
+  "floor": "B2",
+  "area": "01",
+  "sensor_id": "00:23:A7:A6:00:3",
+  "sensor_ip": "192.168.2.3",
+  "seq_id": "3",
+  "x": "833.0",
+  "y": "457.0",
+  "Next_N": [
+    "Next_N3"
+  ],
+  "Pre_N": [
+    ""
+  ],
+  "T": [
+    "T3"
+  ],
+  "X_RANGE": "140",
+  "Y_RANGE": "185",
+  "isDeadEndEntry": ""
+}
